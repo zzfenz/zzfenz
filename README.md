@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zzfenz
+- 👀 I’m interested in discovering the best way to make my lige easier
+- 🌱 I’m currently learning cloud and infra networking
+- 💞️ I’m looking to collaborate on any project which turn around security and backup
+- 📫 How to reach me: mail or github
